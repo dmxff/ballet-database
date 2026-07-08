@@ -1,0 +1,62 @@
+name: Update ballet event database
+
+# Refreshes the JSON database for every supported ballet company directly from
+# each company's official website/API, once a day. If any file changed, the
+# update is committed and pushed back to the repository automatically.
+#
+# Each company is scraped in its own step with `continue-on-error: true`, so a
+# temporary outage of one official source never blocks the others from being
+# refreshed.
+
+on:
+  schedule:
+    # Every day at 03:00 UTC.
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+
+# Allow the workflow to push the refreshed JSON back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-all
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies (also downloads a Playwright Chromium build)
+        run: npm install
+
+      - name: Scrape Hamburg Ballett
+        continue-on-error: true
+        run: npm run fetch:hamburg
+
+      - name: Scrape Staatsballett Berlin
+        continue-on-error: true
+        run: npm run fetch:berlin
+
+      - name: Scrape Stuttgart Ballet
+        continue-on-error: true
+        run: npm run fetch:stuttgart
+
+      - name: Commit and push updated event data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add database/events/*.json
+          if git diff --cached --quiet; then
+            echo "No changes in the event database — nothing to commit."
+          else
+            git commit -m "chore(data): daily refresh of ballet event database"
+            git push
+          fi

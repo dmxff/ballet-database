@@ -162,12 +162,13 @@ const events = rows.map(([title, date, time, venue, ticketUrl, url]) => ({
   id: `${slugify(title)}-${date}-${time.replace(':', '')}`,
   company: 'Hamburg Ballett',
   city: 'Hamburg',
+  venue,
   title,
   date,
   time,
-  venue,
+  datetime: `${date}T${time}:00`,
   ticketUrl: ticketUrl || null,
-  url,
+  officialUrl: url,
 }));
 
 // Sort chronologically, just in case

@@ -1,0 +1,14 @@
+[
+  {
+    "city": "Hamburg",
+    "file": "hamburg.json"
+  },
+  {
+    "city": "Berlin",
+    "file": "berlin.json"
+  },
+  {
+    "city": "Stuttgart",
+    "file": "stuttgart.json"
+  }
+]

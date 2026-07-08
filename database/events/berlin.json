@@ -3,1837 +3,2004 @@
     "id": "helden-2026-07-07-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "HELDEN",
     "date": "2026-07-07",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-07-07T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tik-on-stage0/317.html#a_693"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tik-on-stage0/317.html#a_693"
   },
   {
     "id": "a-midsummer-night-s-dream-2026-07-07-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "A Midsummer Night’s Dream",
     "date": "2026-07-07",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-07-07T19:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_775"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_775"
   },
   {
     "id": "ferienangebot-2026-07-09-1000",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Ferienangebot",
     "date": "2026-07-09",
     "time": "10:00",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-07-09T10:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_939"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_939"
   },
   {
     "id": "a-midsummer-night-s-dream-2026-07-10-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "A Midsummer Night’s Dream",
     "date": "2026-07-10",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-07-10T19:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_776"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_776"
   },
   {
     "id": "family-workshop-2026-07-12-1700",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family workshop",
     "date": "2026-07-12",
     "time": "17:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-07-12T17:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_746"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_746"
   },
   {
     "id": "a-midsummer-night-s-dream-2026-07-12-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "A Midsummer Night’s Dream",
     "date": "2026-07-12",
     "time": "19:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-07-12T19:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_777"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_777"
   },
   {
     "id": "season-opening-weekend-2026-08-29-1200",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Season Opening Weekend",
     "date": "2026-08-29",
     "time": "12:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-08-29T12:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-dob-en/387.html#a_1049"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-dob-en/387.html#a_1049"
   },
   {
     "id": "intune-2026-2026-08-30-1030",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "InTune (2026)",
     "date": "2026-08-30",
     "time": "10:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-08-30T10:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1002"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1002"
   },
   {
     "id": "never-too-late-2026-08-31-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2026-08-31",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-08-31T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1008"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1008"
   },
   {
     "id": "never-too-late-2026-09-02-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2026-09-02",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-09-02T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1009"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1009"
   },
   {
     "id": "season-opening-festivities-2026-09-12-1200",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Season Opening Festivities",
     "date": "2026-09-12",
     "time": "12:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-12T12:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-sob-en/107.html#a_1036"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-sob-en/107.html#a_1036"
   },
   {
     "id": "giselle-2026-09-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-09-12",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-12T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20295&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_821"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_821"
   },
   {
     "id": "forum-2026-09-16-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "House of New Energy",
     "title": "Forum",
     "date": "2026-09-16",
     "time": "19:00",
-    "venue": "House of New Energy",
+    "datetime": "2026-09-16T19:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1046"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1046"
   },
   {
     "id": "giselle-2026-09-18-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-09-18",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-18T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20296&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_822"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_822"
   },
   {
     "id": "dance-workshop-for-everyone-2026-09-20-1200",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden | Apollosaal",
     "title": "Dance workshop for everyone",
     "date": "2026-09-20",
     "time": "12:00",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
+    "datetime": "2026-09-20T12:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-en/323.html#a_994"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-en/323.html#a_994"
   },
   {
     "id": "family-workshop-2026-09-20-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Family workshop",
     "date": "2026-09-20",
     "time": "13:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-20T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1016"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1016"
   },
   {
     "id": "giselle-2026-09-20-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-09-20",
     "time": "15:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-20T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20298&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_823"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_823"
   },
   {
     "id": "giselle-2026-09-20-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-09-20",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-09-20T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20297&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_824"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_824"
   },
   {
     "id": "bovary-2026-09-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Bovary",
     "date": "2026-09-25",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-09-25T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20241&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_833"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_833"
   },
   {
     "id": "futura-danza-2026-09-29-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "FUTURA DANZA",
     "date": "2026-09-29",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-09-29T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_988"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_988"
   },
   {
     "id": "bovary-2026-10-01-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Bovary",
     "date": "2026-10-01",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-01T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20242&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_834"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_834"
   },
   {
     "id": "bovary-2026-10-02-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Bovary",
     "date": "2026-10-02",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-02T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20243&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_835"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_835"
   },
   {
     "id": "tanztanz-2026-10-04-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "TanzTanz",
     "date": "2026-10-04",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-04T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_980"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_980"
   },
   {
     "id": "ballett-gesprach-2026-10-04-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden | Apollosaal",
     "title": "Ballett­gespräch",
     "date": "2026-10-04",
     "time": "11:00",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
+    "datetime": "2026-10-04T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20321&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_841"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_841"
   },
   {
     "id": "giselle-2026-10-04-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-04",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-04T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20299&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_825"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_825"
   },
   {
     "id": "bovary-2026-10-06-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Bovary",
     "date": "2026-10-06",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-06T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20244&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_836"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_836"
   },
   {
     "id": "giselle-2026-10-08-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-08",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-08T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20300&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_826"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_826"
   },
   {
     "id": "family-night-2026-10-10-1700",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family night",
     "date": "2026-10-10",
     "time": "17:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-10T17:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familynight/120.html#a_979"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familynight/120.html#a_979"
   },
   {
     "id": "family-workshop-2026-10-10-1730",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family workshop",
     "date": "2026-10-10",
     "time": "17:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-10T17:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1019"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1019"
   },
   {
     "id": "bovary-2026-10-10-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Bovary",
     "date": "2026-10-10",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-10T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20245&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_837"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_837"
   },
   {
     "id": "giselle-2026-10-11-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-11",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-11T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20301&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_827"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_827"
   },
   {
     "id": "wunder-kammer-2026-10-16-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-10-16",
     "time": "19:30",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-10-16T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20324&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_844"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_844"
   },
   {
     "id": "wunder-kammer-2026-10-18-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-10-18",
     "time": "18:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-10-18T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20325&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_845"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_845"
   },
   {
     "id": "holiday-camp-2026-10-19-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Holiday camp",
     "date": "2026-10-19",
     "time": "09:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-19T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/feriencamp-en/161.html#a_985"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/feriencamp-en/161.html#a_985"
   },
   {
     "id": "family-morning-2026-10-23-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2026-10-23",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-10-23T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1026"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1026"
   },
   {
     "id": "giselle-2026-10-23-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-23",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-23T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20302&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_828"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_828"
   },
   {
     "id": "diy-dance-it-yourself-2026-10-25-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "DIY - Dance it yourself",
     "date": "2026-10-25",
     "time": "13:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-10-25T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/kob-diy-en/319.html#a_1023"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/kob-diy-en/319.html#a_1023"
   },
   {
     "id": "wunder-kammer-2026-10-25-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-10-25",
     "time": "15:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-10-25T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20326&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_846"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_846"
   },
   {
     "id": "wunder-kammer-2026-10-25-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-10-25",
     "time": "19:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-10-25T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20327&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_847"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_847"
   },
   {
     "id": "holiday-course-2026-10-26-0945",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Holiday course",
     "date": "2026-10-26",
     "time": "09:45",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-10-26T09:45:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/holidaycourse/112.html#a_987"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/holidaycourse/112.html#a_987"
   },
   {
     "id": "forum-2026-10-27-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Forum",
     "date": "2026-10-27",
     "time": "19:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-10-27T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20276&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum-en/78.html#a_838"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum-en/78.html#a_838"
   },
   {
     "id": "giselle-2026-10-29-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-29",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-29T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20303&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_829"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_829"
   },
   {
     "id": "giselle-2026-10-30-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Giselle",
     "date": "2026-10-30",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-10-30T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20304&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_830"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_830"
   },
   {
     "id": "ballett-gesprach-2026-11-01-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden | Apollosaal",
     "title": "Ballett­gespräch",
     "date": "2026-11-01",
     "time": "11:00",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
+    "datetime": "2026-11-01T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20322&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_843"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_843"
   },
   {
     "id": "wunder-kammer-2026-11-06-2000",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-11-06",
     "time": "20:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-11-06T20:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20328&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_848"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_848"
   },
   {
     "id": "family-morning-2026-11-07-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2026-11-07",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-11-07T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1027"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1027"
   },
   {
     "id": "premiere-talk-the-nutcracker-2026-11-08-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Premiere Talk: The Nutcracker",
     "date": "2026-11-08",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-08T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-der-nussknacker-en/353.html#a_850"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-der-nussknacker-en/353.html#a_850"
   },
   {
     "id": "wunder-kammer-2026-11-08-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Komische Oper Berlin @ Schillertheater",
     "title": "Wunder­kammer",
     "date": "2026-11-08",
     "time": "18:00",
-    "venue": "Komische Oper Berlin @ Schillertheater",
+    "datetime": "2026-11-08T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20329&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_849"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_849"
   },
   {
     "id": "step-ahead-2026-11-14-1059",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "STEP.ahead",
     "date": "2026-11-14",
     "time": "10:59",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-14T10:59:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fortbildung-en/162.html#a_1000"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fortbildung-en/162.html#a_1000"
   },
   {
     "id": "never-too-late-2026-11-16-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2026-11-16",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-16T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1010"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1010"
   },
   {
     "id": "never-too-late-2026-11-18-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2026-11-18",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-18T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1011"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1011"
   },
   {
     "id": "the-nutcracker-2026-11-27-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-11-27",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-27T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20224&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_851"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_851"
   },
   {
     "id": "intune-2026-2026-11-29-1015",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "InTune (2026)",
     "date": "2026-11-29",
     "time": "10:15",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-11-29T10:15:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1003"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1003"
   },
   {
     "id": "the-nutcracker-2026-11-29-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-11-29",
     "time": "15:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-29T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20226&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_852"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_852"
   },
   {
     "id": "the-nutcracker-2026-11-29-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-11-29",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-11-29T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20225&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_853"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_853"
   },
   {
     "id": "the-nutcracker-2026-12-04-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-04",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-04T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20227&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_854"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_854"
   },
   {
     "id": "family-workshop-2026-12-06-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family workshop",
     "date": "2026-12-06",
     "time": "13:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-06T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1020"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1020"
   },
   {
     "id": "the-nutcracker-2026-12-06-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-06",
     "time": "15:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-06T15:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_855"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_855"
   },
   {
     "id": "the-nutcracker-2026-12-06-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-06",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-06T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20228&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_856"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_856"
   },
   {
     "id": "2-chapters-love-2026-12-11-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2026-12-11",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-12-11T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20305&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_868"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_868"
   },
   {
     "id": "family-morning-2026-12-12-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2026-12-12",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-12-12T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1028"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1028"
   },
   {
     "id": "the-nutcracker-2026-12-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-12",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-12T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20230&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_857"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_857"
   },
   {
     "id": "2-chapters-love-2026-12-13-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2026-12-13",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-12-13T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20306&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_869"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_869"
   },
   {
     "id": "the-nutcracker-2026-12-14-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-14",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-14T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20231&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_858"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_858"
   },
   {
     "id": "2-chapters-love-2026-12-18-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2026-12-18",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-12-18T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20307&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_870"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_870"
   },
   {
     "id": "the-nutcracker-2026-12-19-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-19",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-19T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20232&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_859"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_859"
   },
   {
     "id": "2-chapters-love-2026-12-21-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2026-12-21",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-12-21T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20308&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_871"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_871"
   },
   {
     "id": "family-morning-2026-12-23-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2026-12-23",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-12-23T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1029"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1029"
   },
   {
     "id": "the-nutcracker-2026-12-25-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-25",
     "time": "15:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-25T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20234&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_860"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_860"
   },
   {
     "id": "the-nutcracker-2026-12-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-25",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-25T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20233&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_861"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_861"
   },
   {
     "id": "2-chapters-love-2026-12-28-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2026-12-28",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2026-12-28T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20309&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_872"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_872"
   },
   {
     "id": "family-morning-2026-12-29-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2026-12-29",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2026-12-29T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1030"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1030"
   },
   {
     "id": "the-nutcracker-2026-12-29-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2026-12-29",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2026-12-29T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20235&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_862"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_862"
   },
   {
     "id": "tanztanz-2027-01-10-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "TanzTanz",
     "date": "2027-01-10",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-10T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_981"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_981"
   },
   {
     "id": "forum-2027-01-11-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Forum",
     "date": "2027-01-11",
     "time": "19:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-11T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20277&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum-en/78.html#a_839"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum-en/78.html#a_839"
   },
   {
     "id": "futura-danza-2027-01-12-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "FUTURA DANZA",
     "date": "2027-01-12",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-12T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_989"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_989"
   },
   {
     "id": "the-nutcracker-2027-01-16-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2027-01-16",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-16T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20236&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_863"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_863"
   },
   {
     "id": "the-nutcracker-2027-01-17-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2027-01-17",
     "time": "18:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-17T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20237&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_864"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_864"
   },
   {
     "id": "2-chapters-love-2027-01-22-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-01-22",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-01-22T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20310&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_873"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_873"
   },
   {
     "id": "family-morning-2027-01-23-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2027-01-23",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2027-01-23T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1031"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1031"
   },
   {
     "id": "family-workshop-2027-01-24-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family workshop",
     "date": "2027-01-24",
     "time": "13:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-24T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1021"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1021"
   },
   {
     "id": "the-nutcracker-2027-01-24-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2027-01-24",
     "time": "15:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-24T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20239&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_865"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_865"
   },
   {
     "id": "the-nutcracker-2027-01-24-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2027-01-24",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-24T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20238&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_866"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_866"
   },
   {
     "id": "the-nutcracker-2027-01-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "The Nutcracker",
     "date": "2027-01-25",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-25T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20240&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_867"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_867"
   },
   {
     "id": "2-chapters-love-2027-01-28-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-01-28",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-01-28T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20311&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_874"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_874"
   },
   {
     "id": "company-class-on-stage-2027-01-30-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Company Class on Stage",
     "date": "2027-01-30",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-01-30T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20266&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/training-zum-zuschauen/97.html#a_882"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/training-zum-zuschauen/97.html#a_882"
   },
   {
     "id": "dance-workshop-for-everyone-2027-01-30-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Rangfoyer",
     "title": "Dance workshop for everyone",
     "date": "2027-01-30",
     "time": "13:00",
-    "venue": "Deutsche Oper Berlin | Rangfoyer",
+    "datetime": "2027-01-30T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-dob-en/368.html#a_996"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-dob-en/368.html#a_996"
   },
   {
     "id": "2-chapters-love-2027-02-01-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-02-01",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-01T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20312&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_875"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_875"
   },
   {
     "id": "2-chapters-love-2027-02-04-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-02-04",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-04T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20313&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_876"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_876"
   },
   {
     "id": "never-too-late-2027-02-08-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2027-02-08",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-02-08T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1012"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1012"
   },
   {
     "id": "never-too-late-2027-02-10-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2027-02-10",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-02-10T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1013"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1013"
   },
   {
     "id": "fearful-symmetries-2027-02-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-12",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-12T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20284&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_884"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_884"
   },
   {
     "id": "family-workshop-2027-02-14-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Family workshop",
     "date": "2027-02-14",
     "time": "13:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-14T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1017"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1017"
   },
   {
     "id": "fearful-symmetries-2027-02-14-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-14",
     "time": "15:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-14T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20286&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_885"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_885"
   },
   {
     "id": "fearful-symmetries-2027-02-14-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-14",
     "time": "19:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-14T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20285&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_886"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_886"
   },
   {
     "id": "fearful-symmetries-2027-02-18-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-18",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-18T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20287&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_887"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_887"
   },
   {
     "id": "ballett-gesprach-2027-02-21-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden | Apollosaal",
     "title": "Ballett­gespräch",
     "date": "2027-02-21",
     "time": "11:00",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
+    "datetime": "2027-02-21T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20323&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_842"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ballet-talk/65.html#a_842"
   },
   {
     "id": "fearful-symmetries-2027-02-21-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-21",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-21T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20288&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_888"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_888"
   },
   {
     "id": "fearful-symmetries-2027-02-26-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-26",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-26T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20289&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_889"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_889"
   },
   {
     "id": "fearful-symmetries-2027-02-27-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-02-27",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-02-27T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20290&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_890"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_890"
   },
   {
     "id": "premiere-talk-william-forsythe-ii-2027-03-07-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Premiere Talk: William Forsythe II",
     "date": "2027-03-07",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-03-07T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-william-forsythe-ii-en/352.html#a_895"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-william-forsythe-ii-en/352.html#a_895"
   },
   {
     "id": "fearful-symmetries-2027-03-07-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-03-07",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-03-07T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20291&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_891"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_891"
   },
   {
     "id": "william-forsythe-ii-2027-03-19-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-03-19",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-03-19T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20246&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_896"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_896"
   },
   {
     "id": "william-forsythe-ii-2027-03-20-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-03-20",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-03-20T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20247&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_897"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_897"
   },
   {
     "id": "tanztanz-2027-03-21-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "TanzTanz",
     "date": "2027-03-21",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-03-21T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_982"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanz-tanz-en/57.html#a_982"
   },
   {
     "id": "family-morning-2027-03-27-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2027-03-27",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2027-03-27T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1032"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1032"
   },
   {
     "id": "william-forsythe-ii-2027-03-27-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-03-27",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-03-27T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20248&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_898"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_898"
   },
   {
     "id": "holiday-camp-2027-03-30-0925",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Holiday camp",
     "date": "2027-03-30",
     "time": "09:25",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-03-30T09:25:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/feriencamp-en/161.html#a_986"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/feriencamp-en/161.html#a_986"
   },
   {
     "id": "fearful-symmetries-2027-03-31-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-03-31",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-03-31T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20292&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_892"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_892"
   },
   {
     "id": "family-morning-2027-04-02-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2027-04-02",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2027-04-02T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1033"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1033"
   },
   {
     "id": "diy-dance-it-yourself-2027-04-02-1730",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "DiY - Dance it yourself",
     "date": "2027-04-02",
     "time": "17:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-02T17:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/diy-dob-en/114.html#a_1025"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/diy-dob-en/114.html#a_1025"
   },
   {
     "id": "william-forsythe-ii-2027-04-02-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-04-02",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-02T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20249&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_899"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_899"
   },
   {
     "id": "fearful-symmetries-2027-04-06-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-04-06",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-04-06T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20293&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_893"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_893"
   },
   {
     "id": "forum-2027-04-07-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "House of New Energy",
     "title": "Forum",
     "date": "2027-04-07",
     "time": "19:00",
-    "venue": "House of New Energy",
+    "datetime": "2027-04-07T19:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1047"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1047"
   },
   {
     "id": "william-forsythe-ii-2027-04-09-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-04-09",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-09T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20250&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_900"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_900"
   },
   {
     "id": "intune-2026-2027-04-11-1016",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "InTune (2026)",
     "date": "2027-04-11",
     "time": "10:16",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-04-11T10:16:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1004"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1004"
   },
   {
     "id": "william-forsythe-ii-2027-04-11-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-04-11",
     "time": "18:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-11T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20251&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_901"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_901"
   },
   {
     "id": "william-forsythe-ii-2027-04-14-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-04-14",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-14T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20252&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_902"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_902"
   },
   {
     "id": "fearful-symmetries-2027-04-15-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Fearful Symmetries",
     "date": "2027-04-15",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-04-15T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20294&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_894"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fearful-symmetries-en/303.html#a_894"
   },
   {
     "id": "company-class-on-stage-2027-04-17-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Company Class on Stage",
     "date": "2027-04-17",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-17T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20267&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/training-zum-zuschauen/97.html#a_883"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/training-zum-zuschauen/97.html#a_883"
   },
   {
     "id": "dance-workshop-for-everyone-2027-04-17-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Rangfoyer",
     "title": "Dance workshop for everyone",
     "date": "2027-04-17",
     "time": "13:00",
-    "venue": "Deutsche Oper Berlin | Rangfoyer",
+    "datetime": "2027-04-17T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-dob-en/368.html#a_997"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-dob-en/368.html#a_997"
   },
   {
     "id": "futura-danza-2027-04-20-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "FUTURA DANZA",
     "date": "2027-04-20",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-20T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_990"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_990"
   },
   {
     "id": "nureyev-2027-04-23-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-04-23",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-23T19:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_908"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_908"
   },
   {
     "id": "never-too-late-2027-04-26-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2027-04-26",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-26T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1014"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1014"
   },
   {
     "id": "nureyev-2027-04-26-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-04-26",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-26T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20259&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_909"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_909"
   },
   {
     "id": "never-too-late-2027-04-28-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Never too late",
     "date": "2027-04-28",
     "time": "14:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-28T14:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1015"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1015"
   },
   {
     "id": "nureyev-2027-04-30-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-04-30",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-04-30T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20260&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_910"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_910"
   },
   {
     "id": "nureyev-2027-05-03-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-05-03",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-03T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20261&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_911"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_911"
   },
   {
     "id": "family-morning-2027-05-07-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2027-05-07",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2027-05-07T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1034"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1034"
   },
   {
     "id": "family-workshop-2027-05-07-1730",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Family workshop",
     "date": "2027-05-07",
     "time": "17:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-07T17:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1022"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1022"
   },
   {
     "id": "nureyev-2027-05-07-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-05-07",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-07T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20262&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_912"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_912"
   },
   {
     "id": "nureyev-2027-05-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-05-12",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-12T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20263&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_913"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_913"
   },
   {
     "id": "2-chapters-love-2027-05-14-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-05-14",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-14T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20314&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_877"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_877"
   },
   {
     "id": "nureyev-2027-05-15-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-05-15",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-15T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20264&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_914"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_914"
   },
   {
     "id": "2-chapters-love-2027-05-16-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-05-16",
     "time": "18:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-16T18:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20315&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_878"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_878"
   },
   {
     "id": "nureyev-2027-05-17-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "Nureyev",
     "date": "2027-05-17",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-17T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20265&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_915"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_915"
   },
   {
     "id": "step-ahead-2027-05-18-1000",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "STEP.ahead",
     "date": "2027-05-18",
     "time": "10:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-05-18T10:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fortbildung-en/162.html#a_1001"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/fortbildung-en/162.html#a_1001"
   },
   {
     "id": "2-chapters-love-2027-05-21-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-05-21",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-21T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20316&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_879"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_879"
   },
   {
     "id": "premiere-talk-der-liebhaber-2027-05-23-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden | Apollosaal",
     "title": "Premiere Talk: Der Liebhaber",
     "date": "2027-05-23",
     "time": "11:00",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
+    "datetime": "2027-05-23T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-der-liebhaber-en/351.html#a_916"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-der-liebhaber-en/351.html#a_916"
   },
   {
     "id": "diy-dance-it-yourself-2027-05-23-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "DIY - Dance it yourself",
     "date": "2027-05-23",
     "time": "13:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-23T13:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-diy-en/111.html#a_1024"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-diy-en/111.html#a_1024"
   },
   {
     "id": "2-chapters-love-2027-05-23-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-05-23",
     "time": "15:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-23T15:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20318&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_880"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_880"
   },
   {
     "id": "2-chapters-love-2027-05-23-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "2 Chapters Love",
     "date": "2027-05-23",
     "time": "19:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-05-23T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20317&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_881"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_881"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-05-29-1600",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-05-29",
     "time": "16:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-05-29T16:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20268&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_917"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_917"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-05-31-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-05-31",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-05-31T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20269&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_918"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_918"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-01-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-01",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-01T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20270&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_919"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_919"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-01-1600",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-01",
     "time": "16:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-01T16:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20271&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_920"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_920"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-02-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-02",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-02T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20272&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_921"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_921"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-03-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-03",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-03T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20273&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_922"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_922"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-03-1600",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-03",
     "time": "16:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-03T16:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20274&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_923"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_923"
   },
   {
     "id": "chicxulub-or-the-devil-s-flea-2027-06-04-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin | Tischlerei",
     "title": "Chicxulub or The Devil's Flea",
     "date": "2027-06-04",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin | Tischlerei",
+    "datetime": "2027-06-04T11:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20275&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_924"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/chicxulub-en/305.html#a_924"
   },
   {
     "id": "der-liebhaber-2027-06-05-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-06-05",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-05T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20278&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_925"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_925"
   },
   {
     "id": "der-liebhaber-2027-06-11-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-06-11",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-11T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20279&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_926"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_926"
   },
   {
     "id": "william-forsythe-ii-2027-06-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-06-12",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-12T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20253&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_903"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_903"
   },
   {
     "id": "family-workshop-2027-06-13-1200",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Family workshop",
     "date": "2027-06-13",
     "time": "12:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-13T12:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1018"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1018"
   },
   {
     "id": "der-liebhaber-2027-06-13-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-06-13",
     "time": "14:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-13T14:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20280&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_927"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_927"
   },
   {
     "id": "der-liebhaber-2027-06-16-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-06-16",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-16T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20281&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_928"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_928"
   },
   {
     "id": "william-forsythe-ii-2027-06-19-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-06-19",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-19T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20254&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_904"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_904"
   },
   {
     "id": "tanztanz-special-xxl-2027-06-20-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "TanzTanz Special XXL",
     "date": "2027-06-20",
     "time": "11:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-20T11:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanztanz-special-xxl/363.html#a_983"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanztanz-special-xxl/363.html#a_983"
   },
   {
     "id": "forum-2027-06-23-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "House of New Energy",
     "title": "Forum",
     "date": "2027-06-23",
     "time": "19:00",
-    "venue": "House of New Energy",
+    "datetime": "2027-06-23T19:00:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1048"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1048"
   },
   {
     "id": "staatliche-ballett-und-artistikschule-2027-06-24-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Staatliche Ballett- und Artistikschule",
     "date": "2027-06-24",
     "time": "19:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-24T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20319&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/staatliche-ballett-und-artistikschule/91.html#a_931"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/staatliche-ballett-und-artistikschule/91.html#a_931"
   },
   {
     "id": "william-forsythe-ii-2027-06-24-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-06-24",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-24T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20255&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_905"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_905"
   },
   {
     "id": "staatliche-ballett-und-artistikschule-2027-06-25-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Staatliche Ballett- und Artistikschule",
     "date": "2027-06-25",
     "time": "19:00",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-25T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20320&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/staatliche-ballett-und-artistikschule/91.html#a_932"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/staatliche-ballett-und-artistikschule/91.html#a_932"
   },
   {
     "id": "william-forsythe-ii-2027-06-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-06-25",
     "time": "19:30",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-25T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20256&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_906"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_906"
   },
   {
     "id": "william-forsythe-ii-2027-06-27-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
     "title": "William Forsythe II",
     "date": "2027-06-27",
     "time": "19:00",
-    "venue": "Deutsche Oper Berlin",
+    "datetime": "2027-06-27T19:00:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20257&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_907"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/william-forsythe-ii-en/349.html#a_907"
   },
   {
     "id": "der-liebhaber-2027-06-30-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-06-30",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-06-30T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20282&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_929"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_929"
   },
   {
     "id": "family-morning-2027-07-01-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
     "title": "Family morning",
     "date": "2027-07-01",
     "time": "09:30",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "datetime": "2027-07-01T09:30:00",
     "ticketUrl": null,
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1035"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1035"
   },
   {
     "id": "der-liebhaber-2027-07-02-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
+    "venue": "Staatsoper Unter den Linden",
     "title": "Der Liebhaber",
     "date": "2027-07-02",
     "time": "19:30",
-    "venue": "Staatsoper Unter den Linden",
+    "datetime": "2027-07-02T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20283&language=en",
-    "url": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_930"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-liebhaber-en/350.html#a_930"
   }
 ]

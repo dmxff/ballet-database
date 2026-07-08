@@ -202,12 +202,13 @@ async function scrape() {
       id: `${slugify(ev.title)}-${ev.date}-${ev.time.replace(':', '')}`,
       company: COMPANY,
       city: CITY,
+      venue: ev.venue,
       title: ev.title,
       date: ev.date,
       time: ev.time,
-      venue: ev.venue,
+      datetime: `${ev.date}T${ev.time}:00`,
       ticketUrl: ev.ticketUrl,
-      url: ev.url,
+      officialUrl: ev.url,
     }));
 
   events.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
