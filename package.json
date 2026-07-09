@@ -10,7 +10,8 @@
     "fetch:berlin": "node scripts/scrape-berlin.js",
     "fetch:stuttgart": "node scripts/scrape-stuttgart.js",
     "fetch:all": "npm run fetch:hamburg && npm run fetch:berlin && npm run fetch:stuttgart",
-    "postinstall": "playwright install --with-deps chromium"
+    "setup:playwright": "node ./node_modules/playwright/cli.js install chromium",
+    "postinstall": "node ./node_modules/playwright/cli.js install chromium"
   },
   "license": "MIT",
   "dependencies": {

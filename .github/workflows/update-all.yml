@@ -33,9 +33,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: npm
 
-      - name: Install dependencies (also downloads a Playwright Chromium build)
-        run: npm install
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium with system dependencies
+        run: npx playwright install --with-deps chromium
 
       - name: Scrape Hamburg Ballett
         continue-on-error: true
