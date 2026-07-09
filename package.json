@@ -9,7 +9,8 @@
     "fetch:hamburg": "node scripts/scrape.js",
     "fetch:berlin": "node scripts/scrape-berlin.js",
     "fetch:stuttgart": "node scripts/scrape-stuttgart.js",
-    "fetch:all": "npm run fetch:hamburg && npm run fetch:berlin && npm run fetch:stuttgart",
+    "fetch:dresden": "node scripts/scrape-dresden.js",
+    "fetch:all": "npm run fetch:hamburg && npm run fetch:berlin && npm run fetch:stuttgart && npm run fetch:dresden",
     "setup:playwright": "node ./node_modules/playwright/cli.js install chromium",
     "postinstall": "node ./node_modules/playwright/cli.js install chromium"
   },

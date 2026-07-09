@@ -104,7 +104,7 @@ function pad2(n) {
 // it executes in the browser context, not in Node.
 // ---------------------------------------------------------------------------
 
-function extractEventsFromPage(dateTimeReSource, categoryLabels) {
+function extractEventsFromPage({ dateTimeReSource, categoryLabels }) {
   const dateTimeRe = new RegExp(dateTimeReSource);
   const globalDateTimeRe = new RegExp(dateTimeReSource, 'g');
 
@@ -291,7 +291,10 @@ async function scrape() {
   for (let pageIndex = 0; pageIndex < MAX_MONTH_PAGES; pageIndex++) {
     const before = collected.size;
 
-    const raw = await page.evaluate(extractEventsFromPage, DATE_TIME_RE.source, CATEGORY_LABELS);
+    const raw = await page.evaluate(extractEventsFromPage, {
+      dateTimeReSource: DATE_TIME_RE.source,
+      categoryLabels: CATEGORY_LABELS,
+    });
     for (const ev of raw) {
       const year = normalizeYear(ev.year);
       const date = `${year}-${pad2(ev.month)}-${pad2(ev.day)}`;

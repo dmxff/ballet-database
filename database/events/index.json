@@ -10,5 +10,9 @@
   {
     "city": "Stuttgart",
     "file": "stuttgart.json"
+  },
+  {
+    "city": "Dresden",
+    "file": "dresden.json"
   }
 ]
