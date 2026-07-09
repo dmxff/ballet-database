@@ -1,29 +1,5 @@
 [
   {
-    "id": "helden-2026-07-07-1100",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "HELDEN",
-    "date": "2026-07-07",
-    "time": "11:00",
-    "datetime": "2026-07-07T11:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tik-on-stage0/317.html#a_693"
-  },
-  {
-    "id": "a-midsummer-night-s-dream-2026-07-07-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "A Midsummer Night’s Dream",
-    "date": "2026-07-07",
-    "time": "19:30",
-    "datetime": "2026-07-07T19:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_775"
-  },
-  {
     "id": "ferienangebot-2026-07-09-1000",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
