@@ -1,17 +1,5 @@
 [
   {
-    "id": "insights-focus-john-cranko-school-2026-07-09-1500",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "John Cranko School",
-    "title": "Insights – Focus: John Cranko School",
-    "date": "2026-07-09",
-    "time": "15:00",
-    "datetime": "2026-07-09T15:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/9950/"
-  },
-  {
     "id": "onegin-2026-07-10-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -152,7 +140,7 @@
     "date": "2026-07-23",
     "time": "19:00",
     "datetime": "2026-07-23T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17139&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8640/"
   },
   {
@@ -236,7 +224,7 @@
     "date": "2026-07-29",
     "time": "19:00",
     "datetime": "2026-07-29T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17146&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8606/"
   },
   {

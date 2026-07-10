@@ -1,17 +1,5 @@
 [
   {
-    "id": "ferienangebot-2026-07-09-1000",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
-    "title": "Ferienangebot",
-    "date": "2026-07-09",
-    "time": "10:00",
-    "datetime": "2026-07-09T10:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_939"
-  },
-  {
     "id": "a-midsummer-night-s-dream-2026-07-10-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
