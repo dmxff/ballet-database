@@ -1,17 +1,5 @@
 [
   {
-    "id": "onegin-2026-07-10-1900",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Onegin",
-    "date": "2026-07-10",
-    "time": "19:00",
-    "datetime": "2026-07-10T19:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=2376&language=de",
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html#a_32726"
-  },
-  {
     "id": "onegin-2026-07-12-1400",
     "company": "Semperoper Ballett",
     "city": "Dresden",
