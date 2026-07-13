@@ -1,29 +1,5 @@
 [
   {
-    "id": "family-workshop-2026-07-12-1700",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Family workshop",
-    "date": "2026-07-12",
-    "time": "17:00",
-    "datetime": "2026-07-12T17:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_746"
-  },
-  {
-    "id": "a-midsummer-night-s-dream-2026-07-12-1900",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "A Midsummer Night’s Dream",
-    "date": "2026-07-12",
-    "time": "19:00",
-    "datetime": "2026-07-12T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/a-midsummernights-dream/147.html#a_777"
-  },
-  {
     "id": "season-opening-weekend-2026-08-29-1200",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -105,7 +81,7 @@
     "time": "19:00",
     "datetime": "2026-09-16T19:00:00",
     "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1046"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0-en/385.html#a_1046"
   },
   {
     "id": "giselle-2026-09-18-1930",
@@ -1317,7 +1293,7 @@
     "time": "19:00",
     "datetime": "2027-04-07T19:00:00",
     "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1047"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0-en/385.html#a_1047"
   },
   {
     "id": "william-forsythe-ii-2027-04-09-1930",
@@ -1857,7 +1833,7 @@
     "time": "19:00",
     "datetime": "2027-06-23T19:00:00",
     "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0/385.html#a_1048"
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/forum0-en/385.html#a_1048"
   },
   {
     "id": "staatliche-ballett-und-artistikschule-2027-06-24-1900",

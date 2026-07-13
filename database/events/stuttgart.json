@@ -1,29 +1,5 @@
 [
   {
-    "id": "ballet-matinee-of-the-john-cranko-school-2026-07-12-1100",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Ballet Matinee of the John Cranko School",
-    "date": "2026-07-12",
-    "time": "11:00",
-    "datetime": "2026-07-12T11:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballet-matinee-john-cranko-school/8543/"
-  },
-  {
-    "id": "onegin-2026-07-12-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-07-12",
-    "time": "19:00",
-    "datetime": "2026-07-12T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8638/"
-  },
-  {
     "id": "pre-sale-start-for-season-26-27-2026-07-13-1000",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -44,7 +20,7 @@
     "date": "2026-07-15",
     "time": "19:00",
     "datetime": "2026-07-15T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17131&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8601/"
   },
   {
@@ -56,7 +32,7 @@
     "date": "2026-07-16",
     "time": "19:00",
     "datetime": "2026-07-16T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17133&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8602/"
   },
   {
@@ -212,7 +188,7 @@
     "date": "2026-09-25",
     "time": "19:00",
     "datetime": "2026-09-25T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17190&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9710/"
   },
   {
@@ -224,7 +200,7 @@
     "date": "2026-09-26",
     "time": "19:00",
     "datetime": "2026-09-26T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17191&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9711/"
   },
   {
@@ -236,7 +212,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
   },
   {
@@ -248,7 +224,7 @@
     "date": "2026-09-27",
     "time": "19:00",
     "datetime": "2026-09-27T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17443&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9712/"
   },
   {
@@ -368,7 +344,7 @@
     "date": "2026-11-30",
     "time": "19:00",
     "datetime": "2026-11-30T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17232&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9703/"
   },
   {
@@ -512,7 +488,7 @@
     "date": "2026-12-26",
     "time": "14:00",
     "datetime": "2026-12-26T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17258&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9721/"
   },
   {
@@ -524,7 +500,7 @@
     "date": "2026-12-26",
     "time": "19:00",
     "datetime": "2026-12-26T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17259&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9722/"
   },
   {
@@ -536,7 +512,7 @@
     "date": "2026-12-28",
     "time": "19:00",
     "datetime": "2026-12-28T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17261&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9723/"
   },
   {
@@ -548,7 +524,7 @@
     "date": "2026-12-31",
     "time": "17:00",
     "datetime": "2026-12-31T17:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17263&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9724/"
   },
   {
@@ -560,7 +536,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -572,7 +548,7 @@
     "date": "2027-01-06",
     "time": "19:00",
     "datetime": "2027-01-06T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17270&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9726/"
   },
   {
@@ -728,7 +704,7 @@
     "date": "2027-01-27",
     "time": "19:00",
     "datetime": "2027-01-27T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17286&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9582/"
   },
   {
@@ -752,7 +728,7 @@
     "date": "2027-01-29",
     "time": "19:00",
     "datetime": "2027-01-29T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17288&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9584/"
   },
   {
@@ -776,7 +752,7 @@
     "date": "2027-02-14",
     "time": "14:00",
     "datetime": "2027-02-14T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17299&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9585/"
   },
   {
@@ -788,7 +764,7 @@
     "date": "2027-02-14",
     "time": "19:00",
     "datetime": "2027-02-14T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17300&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9586/"
   },
   {
@@ -812,7 +788,7 @@
     "date": "2027-02-17",
     "time": "19:00",
     "datetime": "2027-02-17T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17302&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9587/"
   },
   {
@@ -860,7 +836,7 @@
     "date": "2027-03-12",
     "time": "19:00",
     "datetime": "2027-03-12T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17315&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9770/"
   },
   {
@@ -872,7 +848,7 @@
     "date": "2027-03-17",
     "time": "19:00",
     "datetime": "2027-03-17T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17319&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9771/"
   },
   {
@@ -884,7 +860,7 @@
     "date": "2027-03-20",
     "time": "19:00",
     "datetime": "2027-03-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17322&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9772/"
   },
   {
@@ -896,7 +872,7 @@
     "date": "2027-03-21",
     "time": "19:00",
     "datetime": "2027-03-21T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17323&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9773/"
   },
   {
@@ -908,7 +884,7 @@
     "date": "2027-03-26",
     "time": "17:00",
     "datetime": "2027-03-26T17:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17325&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9774/"
   },
   {
@@ -920,7 +896,7 @@
     "date": "2027-03-29",
     "time": "17:00",
     "datetime": "2027-03-29T17:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17328&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9775/"
   },
   {
@@ -932,7 +908,7 @@
     "date": "2027-03-31",
     "time": "19:00",
     "datetime": "2027-03-31T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17330&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9776/"
   },
   {
@@ -944,7 +920,7 @@
     "date": "2027-04-04",
     "time": "14:00",
     "datetime": "2027-04-04T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17334&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9777/"
   },
   {
@@ -956,7 +932,7 @@
     "date": "2027-04-04",
     "time": "19:00",
     "datetime": "2027-04-04T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17335&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9778/"
   },
   {
@@ -1016,7 +992,7 @@
     "date": "2027-04-18",
     "time": "16:00",
     "datetime": "2027-04-18T16:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48280&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9874/"
   },
   {
@@ -1028,7 +1004,7 @@
     "date": "2027-04-20",
     "time": "19:00",
     "datetime": "2027-04-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48282&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9875/"
   },
   {
@@ -1052,7 +1028,7 @@
     "date": "2027-04-24",
     "time": "19:00",
     "datetime": "2027-04-24T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48283&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9876/"
   },
   {
@@ -1064,7 +1040,7 @@
     "date": "2027-04-25",
     "time": "17:00",
     "datetime": "2027-04-25T17:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48320&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9877/"
   },
   {
@@ -1076,7 +1052,7 @@
     "date": "2027-04-29",
     "time": "19:00",
     "datetime": "2027-04-29T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48284&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9878/"
   },
   {
@@ -1088,7 +1064,7 @@
     "date": "2027-04-30",
     "time": "19:00",
     "datetime": "2027-04-30T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17354&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9588/"
   },
   {
@@ -1100,7 +1076,7 @@
     "date": "2027-05-02",
     "time": "14:00",
     "datetime": "2027-05-02T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17355&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9589/"
   },
   {
@@ -1112,7 +1088,7 @@
     "date": "2027-05-02",
     "time": "19:00",
     "datetime": "2027-05-02T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17356&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9590/"
   },
   {
@@ -1124,7 +1100,7 @@
     "date": "2027-05-07",
     "time": "19:00",
     "datetime": "2027-05-07T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17358&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9591/"
   },
   {
@@ -1136,7 +1112,7 @@
     "date": "2027-05-08",
     "time": "19:00",
     "datetime": "2027-05-08T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17359&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9592/"
   },
   {
@@ -1160,7 +1136,7 @@
     "date": "2027-05-12",
     "time": "19:00",
     "datetime": "2027-05-12T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17363&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9593/"
   },
   {
@@ -1184,7 +1160,7 @@
     "date": "2027-05-14",
     "time": "19:00",
     "datetime": "2027-05-14T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17365&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9594/"
   },
   {
@@ -1208,7 +1184,7 @@
     "date": "2027-06-04",
     "time": "19:00",
     "datetime": "2027-06-04T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17380&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9789/"
   },
   {
@@ -1244,7 +1220,7 @@
     "date": "2027-06-08",
     "time": "19:00",
     "datetime": "2027-06-08T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17384&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9790/"
   },
   {
@@ -1256,7 +1232,7 @@
     "date": "2027-06-10",
     "time": "19:00",
     "datetime": "2027-06-10T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17386&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9791/"
   },
   {
@@ -1268,7 +1244,7 @@
     "date": "2027-06-12",
     "time": "19:00",
     "datetime": "2027-06-12T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17388&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9792/"
   },
   {
@@ -1280,7 +1256,7 @@
     "date": "2027-06-13",
     "time": "19:00",
     "datetime": "2027-06-13T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17389&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9793/"
   },
   {
@@ -1292,7 +1268,7 @@
     "date": "2027-06-19",
     "time": "19:00",
     "datetime": "2027-06-19T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17391&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9794/"
   },
   {
@@ -1304,7 +1280,7 @@
     "date": "2027-06-20",
     "time": "14:00",
     "datetime": "2027-06-20T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17392&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9795/"
   },
   {
@@ -1316,7 +1292,7 @@
     "date": "2027-06-20",
     "time": "19:00",
     "datetime": "2027-06-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17393&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9796/"
   },
   {
@@ -1328,7 +1304,7 @@
     "date": "2027-06-26",
     "time": "19:00",
     "datetime": "2027-06-26T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17398&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9797/"
   },
   {
@@ -1340,7 +1316,7 @@
     "date": "2027-07-09",
     "time": "19:00",
     "datetime": "2027-07-09T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17407&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9779/"
   },
   {
@@ -1352,7 +1328,7 @@
     "date": "2027-07-11",
     "time": "14:00",
     "datetime": "2027-07-11T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17409&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9780/"
   },
   {
@@ -1364,7 +1340,7 @@
     "date": "2027-07-11",
     "time": "19:00",
     "datetime": "2027-07-11T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17410&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9781/"
   },
   {
@@ -1376,7 +1352,7 @@
     "date": "2027-07-16",
     "time": "19:00",
     "datetime": "2027-07-16T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17417&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9798/"
   },
   {
@@ -1388,7 +1364,7 @@
     "date": "2027-07-17",
     "time": "19:00",
     "datetime": "2027-07-17T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17418&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9799/"
   },
   {
@@ -1400,7 +1376,7 @@
     "date": "2027-07-18",
     "time": "11:00",
     "datetime": "2027-07-18T11:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17420&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballet-matinee-john-cranko-school/9580/"
   },
   {
@@ -1412,7 +1388,7 @@
     "date": "2027-07-19",
     "time": "19:00",
     "datetime": "2027-07-19T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17421&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9782/"
   },
   {
@@ -1424,7 +1400,7 @@
     "date": "2027-07-20",
     "time": "19:00",
     "datetime": "2027-07-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17422&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9783/"
   },
   {
@@ -1448,7 +1424,7 @@
     "date": "2027-07-24",
     "time": "18:00",
     "datetime": "2027-07-24T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17424&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9800/"
   },
   {
@@ -1460,7 +1436,7 @@
     "date": "2027-07-25",
     "time": "11:00",
     "datetime": "2027-07-25T11:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17426&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballet-matinee-john-cranko-school/9581/"
   },
   {
@@ -1472,7 +1448,7 @@
     "date": "2027-07-25",
     "time": "19:00",
     "datetime": "2027-07-25T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17425&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9801/"
   },
   {
@@ -1484,7 +1460,7 @@
     "date": "2027-07-26",
     "time": "19:00",
     "datetime": "2027-07-26T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17427&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9784/"
   },
   {
@@ -1496,7 +1472,7 @@
     "date": "2027-07-27",
     "time": "19:00",
     "datetime": "2027-07-27T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17428&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9785/"
   },
   {
@@ -1508,7 +1484,7 @@
     "date": "2027-07-28",
     "time": "19:00",
     "datetime": "2027-07-28T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17429&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9786/"
   }
 ]
