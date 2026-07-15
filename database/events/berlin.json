@@ -72,6 +72,18 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_821"
   },
   {
+    "id": "tanztanz-special-2026-09-14-1800",
+    "company": "Staatsballett Berlin",
+    "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
+    "title": "TanzTanz Special",
+    "date": "2026-09-14",
+    "time": "18:00",
+    "datetime": "2026-09-14T18:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanztanz-special-we/115.html#a_1055"
+  },
+  {
     "id": "forum-2026-09-16-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -540,11 +552,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/knie-zu-spaet-en/167.html#a_1011"
   },
   {
-    "id": "the-nutcracker-2026-11-27-1930",
+    "id": "the-nut-cracker-2026-11-27-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-11-27",
     "time": "19:30",
     "datetime": "2026-11-27T19:30:00",
@@ -564,11 +576,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1003"
   },
   {
-    "id": "the-nutcracker-2026-11-29-1500",
+    "id": "the-nut-cracker-2026-11-29-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-11-29",
     "time": "15:00",
     "datetime": "2026-11-29T15:00:00",
@@ -576,11 +588,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_852"
   },
   {
-    "id": "the-nutcracker-2026-11-29-1930",
+    "id": "the-nut-cracker-2026-11-29-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-11-29",
     "time": "19:30",
     "datetime": "2026-11-29T19:30:00",
@@ -588,11 +600,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_853"
   },
   {
-    "id": "the-nutcracker-2026-12-04-1930",
+    "id": "the-nut-cracker-2026-12-04-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-04",
     "time": "19:30",
     "datetime": "2026-12-04T19:30:00",
@@ -612,11 +624,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1020"
   },
   {
-    "id": "the-nutcracker-2026-12-06-1500",
+    "id": "the-nut-cracker-2026-12-06-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-06",
     "time": "15:00",
     "datetime": "2026-12-06T15:00:00",
@@ -624,11 +636,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_855"
   },
   {
-    "id": "the-nutcracker-2026-12-06-1930",
+    "id": "the-nut-cracker-2026-12-06-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-06",
     "time": "19:30",
     "datetime": "2026-12-06T19:30:00",
@@ -660,11 +672,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1028"
   },
   {
-    "id": "the-nutcracker-2026-12-12-1930",
+    "id": "the-nut-cracker-2026-12-12-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-12",
     "time": "19:30",
     "datetime": "2026-12-12T19:30:00",
@@ -684,11 +696,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_869"
   },
   {
-    "id": "the-nutcracker-2026-12-14-1930",
+    "id": "the-nut-cracker-2026-12-14-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-14",
     "time": "19:30",
     "datetime": "2026-12-14T19:30:00",
@@ -708,11 +720,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_870"
   },
   {
-    "id": "the-nutcracker-2026-12-19-1930",
+    "id": "the-nut-cracker-2026-12-19-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-19",
     "time": "19:30",
     "datetime": "2026-12-19T19:30:00",
@@ -744,11 +756,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1029"
   },
   {
-    "id": "the-nutcracker-2026-12-25-1500",
+    "id": "the-nut-cracker-2026-12-25-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-25",
     "time": "15:00",
     "datetime": "2026-12-25T15:00:00",
@@ -756,11 +768,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_860"
   },
   {
-    "id": "the-nutcracker-2026-12-25-1930",
+    "id": "the-nut-cracker-2026-12-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-25",
     "time": "19:30",
     "datetime": "2026-12-25T19:30:00",
@@ -792,11 +804,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1030"
   },
   {
-    "id": "the-nutcracker-2026-12-29-1930",
+    "id": "the-nut-cracker-2026-12-29-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2026-12-29",
     "time": "19:30",
     "datetime": "2026-12-29T19:30:00",
@@ -840,11 +852,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/futura-danza-en/365.html#a_989"
   },
   {
-    "id": "the-nutcracker-2027-01-16-1930",
+    "id": "the-nut-cracker-2027-01-16-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2027-01-16",
     "time": "19:30",
     "datetime": "2027-01-16T19:30:00",
@@ -852,11 +864,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_863"
   },
   {
-    "id": "the-nutcracker-2027-01-17-1800",
+    "id": "the-nut-cracker-2027-01-17-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2027-01-17",
     "time": "18:00",
     "datetime": "2027-01-17T18:00:00",
@@ -900,11 +912,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1021"
   },
   {
-    "id": "the-nutcracker-2027-01-24-1500",
+    "id": "the-nut-cracker-2027-01-24-1500",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2027-01-24",
     "time": "15:00",
     "datetime": "2027-01-24T15:00:00",
@@ -912,11 +924,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_865"
   },
   {
-    "id": "the-nutcracker-2027-01-24-1930",
+    "id": "the-nut-cracker-2027-01-24-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2027-01-24",
     "time": "19:30",
     "datetime": "2027-01-24T19:30:00",
@@ -924,11 +936,11 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_866"
   },
   {
-    "id": "the-nutcracker-2027-01-25-1930",
+    "id": "the-nut-cracker-2027-01-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
     "venue": "Deutsche Oper Berlin",
-    "title": "The Nutcracker",
+    "title": "The Nut­cracker",
     "date": "2027-01-25",
     "time": "19:30",
     "datetime": "2027-01-25T19:30:00",
@@ -1532,7 +1544,7 @@
     "date": "2027-05-15",
     "time": "19:30",
     "datetime": "2027-05-15T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20264&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_914"
   },
   {
