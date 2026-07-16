@@ -1,17 +1,5 @@
 [
   {
-    "id": "mayerling-2026-07-15-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Mayerling",
-    "date": "2026-07-15",
-    "time": "19:00",
-    "datetime": "2026-07-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17131&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8601/"
-  },
-  {
     "id": "mayerling-2026-07-16-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -44,7 +32,7 @@
     "date": "2026-07-22",
     "time": "19:00",
     "datetime": "2026-07-22T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17138&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8639/"
   },
   {
@@ -68,7 +56,7 @@
     "date": "2026-07-24",
     "time": "19:00",
     "datetime": "2026-07-24T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17140&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8641/"
   },
   {
@@ -380,7 +368,7 @@
     "date": "2026-12-05",
     "time": "18:00",
     "datetime": "2026-12-05T18:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17238&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9706/"
   },
   {
@@ -392,7 +380,7 @@
     "date": "2026-12-06",
     "time": "11:00",
     "datetime": "2026-12-06T11:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17239&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/aktion-weihnachten-en/9973/"
   },
   {
@@ -524,7 +512,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -800,7 +788,7 @@
     "date": "2027-02-21",
     "time": "14:00",
     "datetime": "2027-02-21T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48277&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/noverre-young-choreographers/9882/"
   },
   {
@@ -1400,7 +1388,7 @@
     "date": "2027-07-23",
     "time": "19:00",
     "datetime": "2027-07-23T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17423&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/gala-for-marcia-haydee-s-birthday/9879/"
   },
   {
