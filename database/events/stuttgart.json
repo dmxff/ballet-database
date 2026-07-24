@@ -1,17 +1,5 @@
 [
   {
-    "id": "onegin-2026-07-23-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-07-23",
-    "time": "19:00",
-    "datetime": "2026-07-23T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17139&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8640/"
-  },
-  {
     "id": "onegin-2026-07-24-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
