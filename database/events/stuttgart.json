@@ -1,17 +1,5 @@
 [
   {
-    "id": "onegin-2026-07-24-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-07-24",
-    "time": "19:00",
-    "datetime": "2026-07-24T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17140&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8641/"
-  },
-  {
     "id": "gala-ballett-im-park-2026-07-25-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -44,7 +32,7 @@
     "date": "2026-07-26",
     "time": "19:00",
     "datetime": "2026-07-26T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17143&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8642/"
   },
   {
@@ -416,7 +404,7 @@
     "date": "2026-12-26",
     "time": "14:00",
     "datetime": "2026-12-26T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17258&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9721/"
   },
   {
