@@ -1,17 +1,5 @@
 [
   {
-    "id": "gala-ballett-im-park-2026-07-25-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Gala - Ballett im Park",
-    "date": "2026-07-25",
-    "time": "19:00",
-    "datetime": "2026-07-25T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17141&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/gala-ballett-im-park/8504/"
-  },
-  {
     "id": "ballet-matinee-of-the-john-cranko-school-2026-07-26-1100",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -20,7 +8,7 @@
     "date": "2026-07-26",
     "time": "11:00",
     "datetime": "2026-07-26T11:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17142&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballet-matinee-john-cranko-school/8544/"
   },
   {
@@ -416,7 +404,7 @@
     "date": "2026-12-26",
     "time": "19:00",
     "datetime": "2026-12-26T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17259&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9722/"
   },
   {
@@ -464,7 +452,7 @@
     "date": "2027-01-06",
     "time": "19:00",
     "datetime": "2027-01-06T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17270&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9726/"
   },
   {
