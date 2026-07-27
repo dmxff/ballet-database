@@ -1,29 +1,5 @@
 [
   {
-    "id": "ballet-matinee-of-the-john-cranko-school-2026-07-26-1100",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Ballet Matinee of the John Cranko School",
-    "date": "2026-07-26",
-    "time": "11:00",
-    "datetime": "2026-07-26T11:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballet-matinee-john-cranko-school/8544/"
-  },
-  {
-    "id": "onegin-2026-07-26-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-07-26",
-    "time": "19:00",
-    "datetime": "2026-07-26T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/8642/"
-  },
-  {
     "id": "mayerling-2026-07-27-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -764,7 +740,7 @@
     "date": "2027-03-20",
     "time": "19:00",
     "datetime": "2027-03-20T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17322&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9772/"
   },
   {
