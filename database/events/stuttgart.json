@@ -1,17 +1,5 @@
 [
   {
-    "id": "mayerling-2026-07-28-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Mayerling",
-    "date": "2026-07-28",
-    "time": "19:00",
-    "datetime": "2026-07-28T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17145&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8605/"
-  },
-  {
     "id": "mayerling-2026-07-29-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -20,7 +8,7 @@
     "date": "2026-07-29",
     "time": "19:00",
     "datetime": "2026-07-29T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17146&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/mayerling-en/8606/"
   },
   {
@@ -200,7 +188,7 @@
     "date": "2026-11-27",
     "time": "19:00",
     "datetime": "2026-11-27T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17228&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9702/"
   },
   {
@@ -272,7 +260,7 @@
     "date": "2026-12-06",
     "time": "11:00",
     "datetime": "2026-12-06T11:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17239&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/aktion-weihnachten-en/9973/"
   },
   {
