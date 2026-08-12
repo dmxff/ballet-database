@@ -824,7 +824,7 @@
     "date": "2027-04-16",
     "time": "19:00",
     "datetime": "2027-04-16T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48279&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9873/"
   },
   {
