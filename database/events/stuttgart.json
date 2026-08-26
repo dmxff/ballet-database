@@ -32,7 +32,7 @@
     "date": "2026-09-25",
     "time": "19:00",
     "datetime": "2026-09-25T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17190&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9710/"
   },
   {
@@ -44,7 +44,7 @@
     "date": "2026-09-26",
     "time": "19:00",
     "datetime": "2026-09-26T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17191&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9711/"
   },
   {
@@ -56,7 +56,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
   },
   {
@@ -68,7 +68,7 @@
     "date": "2026-09-27",
     "time": "19:00",
     "datetime": "2026-09-27T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17443&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9712/"
   },
   {
@@ -548,7 +548,7 @@
     "date": "2027-01-27",
     "time": "19:00",
     "datetime": "2027-01-27T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17286&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9582/"
   },
   {
@@ -704,7 +704,7 @@
     "date": "2027-03-20",
     "time": "19:00",
     "datetime": "2027-03-20T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17322&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/modern-elegies-en/9772/"
   },
   {
@@ -884,7 +884,7 @@
     "date": "2027-04-25",
     "time": "17:00",
     "datetime": "2027-04-25T17:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48320&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9877/"
   },
   {
