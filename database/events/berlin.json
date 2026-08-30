@@ -1,17 +1,5 @@
 [
   {
-    "id": "season-opening-weekend-2026-08-29-1200",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Season Opening Weekend",
-    "date": "2026-08-29",
-    "time": "12:00",
-    "datetime": "2026-08-29T12:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-dob-en/387.html#a_1049"
-  },
-  {
     "id": "intune-2026-2026-08-30-1030",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -68,7 +56,7 @@
     "date": "2026-09-12",
     "time": "19:30",
     "datetime": "2026-09-12T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20295&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_821"
   },
   {
