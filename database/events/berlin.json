@@ -1,17 +1,5 @@
 [
   {
-    "id": "intune-2026-2026-08-30-1030",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "InTune (2026)",
-    "date": "2026-08-30",
-    "time": "10:30",
-    "datetime": "2026-08-30T10:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/intakt-kurs-en/370.html#a_1002"
-  },
-  {
     "id": "never-too-late-2026-08-31-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
