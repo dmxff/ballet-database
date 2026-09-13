@@ -1,29 +1,5 @@
 [
   {
-    "id": "season-opening-festivities-2026-09-12-1200",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Season Opening Festivities",
-    "date": "2026-09-12",
-    "time": "12:00",
-    "datetime": "2026-09-12T12:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/eroeffnungsfest-sob-en/107.html#a_1036"
-  },
-  {
-    "id": "giselle-2026-09-12-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-09-12",
-    "time": "19:30",
-    "datetime": "2026-09-12T19:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_821"
-  },
-  {
     "id": "tanztanz-special-2026-09-14-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -188,7 +164,7 @@
     "date": "2026-10-04",
     "time": "18:00",
     "datetime": "2026-10-04T18:00:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20299&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_825"
   },
   {
