@@ -44,7 +44,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
   },
   {
@@ -128,7 +128,7 @@
     "date": "2026-11-15",
     "time": "14:00",
     "datetime": "2026-11-15T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17221&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9717/"
   },
   {
@@ -140,7 +140,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
@@ -212,7 +212,7 @@
     "date": "2026-12-04",
     "time": "19:00",
     "datetime": "2026-12-04T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17237&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9705/"
   },
   {
@@ -224,7 +224,7 @@
     "date": "2026-12-05",
     "time": "18:00",
     "datetime": "2026-12-05T18:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17238&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9706/"
   },
   {
