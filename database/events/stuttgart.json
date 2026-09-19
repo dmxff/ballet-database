@@ -44,7 +44,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
   },
   {
@@ -82,6 +82,18 @@
     "datetime": "2026-10-22T15:00:00",
     "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/insights-focus-restoration/10207/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2026-11-04-1500",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-11-04",
+    "time": "15:00",
+    "datetime": "2026-11-04T15:00:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91313&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10272/"
   },
   {
     "id": "romeo-and-juliet-2026-11-13-1900",
@@ -156,6 +168,30 @@
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballett-and-brezeln/9894/"
   },
   {
+    "id": "insights-focus-john-cranko-school-2026-11-21-1500",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-11-21",
+    "time": "15:00",
+    "datetime": "2026-11-21T15:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10273/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2026-11-24-1600",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-11-24",
+    "time": "16:00",
+    "datetime": "2026-11-24T16:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10274/"
+  },
+  {
     "id": "the-nutcracker-2026-11-27-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -188,7 +224,7 @@
     "date": "2026-12-01",
     "time": "19:00",
     "datetime": "2026-12-01T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17234&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9704/"
   },
   {
@@ -240,6 +276,30 @@
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/aktion-weihnachten-en/9973/"
   },
   {
+    "id": "insights-focus-john-cranko-school-2026-12-08-1400",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-12-08",
+    "time": "14:00",
+    "datetime": "2026-12-08T14:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10275/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2026-12-08-1630",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-12-08",
+    "time": "16:30",
+    "datetime": "2026-12-08T16:30:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10276/"
+  },
+  {
     "id": "the-nutcracker-2026-12-12-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -260,7 +320,7 @@
     "date": "2026-12-15",
     "time": "19:00",
     "datetime": "2026-12-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17245&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9708/"
   },
   {
@@ -296,7 +356,7 @@
     "date": "2026-12-20",
     "time": "17:00",
     "datetime": "2026-12-20T17:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17252&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9719/"
   },
   {
