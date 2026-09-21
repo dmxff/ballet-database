@@ -1,53 +1,5 @@
 [
   {
-    "id": "dance-workshop-for-everyone-2026-09-20-1200",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden | Apollosaal",
-    "title": "Dance workshop for everyone",
-    "date": "2026-09-20",
-    "time": "12:00",
-    "datetime": "2026-09-20T12:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanzworkshop-en/323.html#a_994"
-  },
-  {
-    "id": "family-workshop-2026-09-20-1300",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Family workshop",
-    "date": "2026-09-20",
-    "time": "13:00",
-    "datetime": "2026-09-20T13:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/sob-familyworkshop/116.html#a_1016"
-  },
-  {
-    "id": "giselle-2026-09-20-1500",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-09-20",
-    "time": "15:00",
-    "datetime": "2026-09-20T15:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_823"
-  },
-  {
-    "id": "giselle-2026-09-20-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-09-20",
-    "time": "19:30",
-    "datetime": "2026-09-20T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20297&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_824"
-  },
-  {
     "id": "bovary-2026-09-25-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",

@@ -1,17 +1,5 @@
 [
   {
-    "id": "theaterfest-am-eckensee-2026-09-20-1100",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus, Schauspielhaus, Opernvorplatz",
-    "title": "Theaterfest am Eckensee",
-    "date": "2026-09-20",
-    "time": "11:00",
-    "datetime": "2026-09-20T11:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/theaterfest-am-eckensee/10101/"
-  },
-  {
     "id": "onegin-2026-09-25-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -20,7 +8,7 @@
     "date": "2026-09-25",
     "time": "19:00",
     "datetime": "2026-09-25T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17190&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9710/"
   },
   {
@@ -92,7 +80,7 @@
     "date": "2026-11-04",
     "time": "15:00",
     "datetime": "2026-11-04T15:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91313&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10272/"
   },
   {
@@ -116,7 +104,7 @@
     "date": "2026-11-13",
     "time": "20:00",
     "datetime": "2026-11-13T20:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=65988&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/international-solo-tanz-theater-festival-stuttgart/9884/"
   },
   {
@@ -128,7 +116,7 @@
     "date": "2026-11-14",
     "time": "20:00",
     "datetime": "2026-11-14T20:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=65989&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/international-solo-tanz-theater-festival-stuttgart/9885/"
   },
   {
@@ -164,7 +152,7 @@
     "date": "2026-11-21",
     "time": "10:30",
     "datetime": "2026-11-21T10:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=30055&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballett-and-brezeln/9894/"
   },
   {
