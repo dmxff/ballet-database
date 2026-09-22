@@ -8,7 +8,7 @@
     "date": "2026-09-25",
     "time": "19:00",
     "datetime": "2026-09-25T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17190&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9710/"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
   },
   {
@@ -152,7 +152,7 @@
     "date": "2026-11-21",
     "time": "10:30",
     "datetime": "2026-11-21T10:30:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=30055&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballett-and-brezeln/9894/"
   },
   {
@@ -416,7 +416,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -680,7 +680,7 @@
     "date": "2027-02-20",
     "time": "19:00",
     "datetime": "2027-02-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48276&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/noverre-young-choreographers/9880/"
   },
   {
