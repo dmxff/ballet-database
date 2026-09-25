@@ -264,6 +264,30 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/holidaycourse/112.html#a_987"
   },
   {
+    "id": "ferienangebot-2026-10-26-1615",
+    "company": "Staatsballett Berlin",
+    "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "title": "Ferienangebot",
+    "date": "2026-10-26",
+    "time": "16:15",
+    "datetime": "2026-10-26T16:15:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_1057"
+  },
+  {
+    "id": "ferienangebot-2026-10-27-0915",
+    "company": "Staatsballett Berlin",
+    "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "title": "Ferienangebot",
+    "date": "2026-10-27",
+    "time": "09:15",
+    "datetime": "2026-10-27T09:15:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_1056"
+  },
+  {
     "id": "forum-2026-10-27-1900",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
