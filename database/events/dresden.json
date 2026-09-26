@@ -1,17 +1,5 @@
 [
   {
-    "id": "onegin-2026-09-25-1900",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Onegin",
-    "date": "2026-09-25",
-    "time": "19:00",
-    "datetime": "2026-09-25T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html#a_33112"
-  },
-  {
     "id": "onegin-2026-09-27-1400",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -20,7 +8,7 @@
     "date": "2026-09-27",
     "time": "14:00",
     "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3116&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html#a_33114"
   },
   {
@@ -44,7 +32,7 @@
     "date": "2026-10-05",
     "time": "19:00",
     "datetime": "2026-10-05T19:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3118&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html#a_33121"
   },
   {
@@ -212,7 +200,7 @@
     "date": "2026-12-06",
     "time": "18:00",
     "datetime": "2026-12-06T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3162&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33189"
   },
   {
@@ -224,7 +212,7 @@
     "date": "2026-12-13",
     "time": "19:00",
     "datetime": "2026-12-13T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3159&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33199"
   },
   {
@@ -236,7 +224,7 @@
     "date": "2026-12-18",
     "time": "19:00",
     "datetime": "2026-12-18T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3160&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33202"
   },
   {
@@ -248,7 +236,7 @@
     "date": "2026-12-20",
     "time": "14:00",
     "datetime": "2026-12-20T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3167&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33206"
   },
   {
@@ -260,7 +248,7 @@
     "date": "2026-12-20",
     "time": "18:00",
     "datetime": "2026-12-20T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3163&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33207"
   },
   {
@@ -284,7 +272,7 @@
     "date": "2026-12-23",
     "time": "18:00",
     "datetime": "2026-12-23T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3164&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33212"
   },
   {

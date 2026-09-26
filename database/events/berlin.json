@@ -1,17 +1,5 @@
 [
   {
-    "id": "bovary-2026-09-25-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Bovary",
-    "date": "2026-09-25",
-    "time": "19:30",
-    "datetime": "2026-09-25T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20241&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_833"
-  },
-  {
     "id": "futura-danza-2026-09-29-1400",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
