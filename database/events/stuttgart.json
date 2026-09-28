@@ -1,29 +1,5 @@
 [
   {
-    "id": "onegin-2026-09-27-1400",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-09-27",
-    "time": "14:00",
-    "datetime": "2026-09-27T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17193&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/10221/"
-  },
-  {
-    "id": "onegin-2026-09-27-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Onegin",
-    "date": "2026-09-27",
-    "time": "19:00",
-    "datetime": "2026-09-27T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17443&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/onegin-en/9712/"
-  },
-  {
     "id": "costume-sale-2026-10-10-1000",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -116,7 +92,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
@@ -152,7 +128,7 @@
     "date": "2026-11-24",
     "time": "16:00",
     "datetime": "2026-11-24T16:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91315&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10274/"
   },
   {
@@ -332,7 +308,7 @@
     "date": "2026-12-23",
     "time": "19:00",
     "datetime": "2026-12-23T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17255&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9720/"
   },
   {
@@ -656,7 +632,7 @@
     "date": "2027-02-20",
     "time": "19:00",
     "datetime": "2027-02-20T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48276&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/noverre-young-choreographers/9880/"
   },
   {
