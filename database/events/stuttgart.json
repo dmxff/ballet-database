@@ -164,7 +164,7 @@
     "date": "2026-12-01",
     "time": "19:00",
     "datetime": "2026-12-01T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17234&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9704/"
   },
   {
@@ -188,7 +188,7 @@
     "date": "2026-12-04",
     "time": "19:00",
     "datetime": "2026-12-04T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17237&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9705/"
   },
   {
