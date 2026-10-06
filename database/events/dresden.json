@@ -1,17 +1,5 @@
 [
   {
-    "id": "onegin-2026-10-05-1900",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Onegin",
-    "date": "2026-10-05",
-    "time": "19:00",
-    "datetime": "2026-10-05T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html#a_33121"
-  },
-  {
     "id": "gestatten-monsieur-petipa-2026-10-12-1000",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -176,7 +164,7 @@
     "date": "2026-12-06",
     "time": "18:00",
     "datetime": "2026-12-06T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3162&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33189"
   },
   {
