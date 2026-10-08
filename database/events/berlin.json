@@ -8,7 +8,7 @@
     "date": "2026-10-08",
     "time": "19:30",
     "datetime": "2026-10-08T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20300&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_826"
   },
   {
@@ -1244,7 +1244,7 @@
     "date": "2027-05-03",
     "time": "19:30",
     "datetime": "2027-05-03T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20261&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_911"
   },
   {

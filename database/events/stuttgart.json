@@ -12,6 +12,42 @@
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/costume-sale/9977/"
   },
   {
+    "id": "insights-focus-john-cranko-school-2026-10-12-1100",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-10-12",
+    "time": "11:00",
+    "datetime": "2026-10-12T11:00:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91326&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10339/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2026-10-13-1100",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-10-13",
+    "time": "11:00",
+    "datetime": "2026-10-13T11:00:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91328&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10340/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2026-10-14-1100",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2026-10-14",
+    "time": "11:00",
+    "datetime": "2026-10-14T11:00:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91329&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10341/"
+  },
+  {
     "id": "insights-focus-restoration-2026-10-22-1500",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -224,7 +260,7 @@
     "date": "2026-12-08",
     "time": "14:00",
     "datetime": "2026-12-08T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91316&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10275/"
   },
   {
@@ -236,7 +272,7 @@
     "date": "2026-12-08",
     "time": "16:30",
     "datetime": "2026-12-08T16:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91317&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10276/"
   },
   {
