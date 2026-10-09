@@ -1,17 +1,5 @@
 [
   {
-    "id": "giselle-2026-10-08-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-10-08",
-    "time": "19:30",
-    "datetime": "2026-10-08T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20300&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_826"
-  },
-  {
     "id": "family-night-2026-10-10-1700",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
