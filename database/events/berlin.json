@@ -1,41 +1,5 @@
 [
   {
-    "id": "family-night-2026-10-10-1700",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Family night",
-    "date": "2026-10-10",
-    "time": "17:00",
-    "datetime": "2026-10-10T17:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familynight/120.html#a_979"
-  },
-  {
-    "id": "family-workshop-2026-10-10-1730",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Family workshop",
-    "date": "2026-10-10",
-    "time": "17:30",
-    "datetime": "2026-10-10T17:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familyworkshop-dob-en/113.html#a_1019"
-  },
-  {
-    "id": "bovary-2026-10-10-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Bovary",
-    "date": "2026-10-10",
-    "time": "19:30",
-    "datetime": "2026-10-10T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20245&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/bovary-en/67.html#a_837"
-  },
-  {
     "id": "giselle-2026-10-11-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -200,7 +164,7 @@
     "date": "2026-10-29",
     "time": "19:30",
     "datetime": "2026-10-29T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20303&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_829"
   },
   {
@@ -368,7 +332,7 @@
     "date": "2026-12-04",
     "time": "19:30",
     "datetime": "2026-12-04T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20227&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_854"
   },
   {
@@ -404,7 +368,7 @@
     "date": "2026-12-06",
     "time": "19:30",
     "datetime": "2026-12-06T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20228&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_856"
   },
   {
