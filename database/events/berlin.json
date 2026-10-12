@@ -1,17 +1,5 @@
 [
   {
-    "id": "giselle-2026-10-11-1800",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-10-11",
-    "time": "18:00",
-    "datetime": "2026-10-11T18:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_827"
-  },
-  {
     "id": "wunder-kammer-2026-10-16-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -32,7 +20,7 @@
     "date": "2026-10-18",
     "time": "18:00",
     "datetime": "2026-10-18T18:00:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20325&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_845"
   },
   {
@@ -320,7 +308,7 @@
     "date": "2026-11-29",
     "time": "19:30",
     "datetime": "2026-11-29T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20225&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_853"
   },
   {
@@ -332,7 +320,7 @@
     "date": "2026-12-04",
     "time": "19:30",
     "datetime": "2026-12-04T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20227&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_854"
   },
   {
@@ -368,7 +356,7 @@
     "date": "2026-12-06",
     "time": "19:30",
     "datetime": "2026-12-06T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20228&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_856"
   },
   {
@@ -404,7 +392,7 @@
     "date": "2026-12-12",
     "time": "19:30",
     "datetime": "2026-12-12T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20230&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_857"
   },
   {
@@ -452,7 +440,7 @@
     "date": "2026-12-19",
     "time": "19:30",
     "datetime": "2026-12-19T19:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20232&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_859"
   },
   {
