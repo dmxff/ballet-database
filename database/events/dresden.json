@@ -1,17 +1,5 @@
 [
   {
-    "id": "gestatten-monsieur-petipa-2026-10-12-1000",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Kleiner Ballettsaal",
-    "title": "Gestatten, Monsieur Petipa!",
-    "date": "2026-10-12",
-    "time": "10:00",
-    "datetime": "2026-10-12T10:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/gestatten-monsieur-petipa/55486.html#a_33619"
-  },
-  {
     "id": "gestatten-monsieur-petipa-2026-10-19-1000",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -200,7 +188,7 @@
     "date": "2026-12-20",
     "time": "14:00",
     "datetime": "2026-12-20T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3167&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33206"
   },
   {
