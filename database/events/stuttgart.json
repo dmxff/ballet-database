@@ -548,7 +548,7 @@
     "date": "2027-01-29",
     "time": "19:00",
     "datetime": "2027-01-29T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17288&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9584/"
   },
   {
