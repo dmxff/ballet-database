@@ -1,17 +1,5 @@
 [
   {
-    "id": "wunder-kammer-2026-10-16-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Komische Oper Berlin @ Schillertheater",
-    "title": "Wunder­kammer",
-    "date": "2026-10-16",
-    "time": "19:30",
-    "datetime": "2026-10-16T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20324&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_844"
-  },
-  {
     "id": "wunder-kammer-2026-10-18-1800",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -224,7 +212,7 @@
     "date": "2026-11-08",
     "time": "18:00",
     "datetime": "2026-11-08T18:00:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20329&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_849"
   },
   {
@@ -392,7 +380,7 @@
     "date": "2026-12-12",
     "time": "19:30",
     "datetime": "2026-12-12T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20230&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_857"
   },
   {
@@ -524,7 +512,7 @@
     "date": "2026-12-29",
     "time": "19:30",
     "datetime": "2026-12-29T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20235&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_862"
   },
   {
