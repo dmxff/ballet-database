@@ -236,7 +236,7 @@
     "date": "2026-12-12",
     "time": "19:00",
     "datetime": "2026-12-12T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17243&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9707/"
   },
   {
@@ -248,7 +248,7 @@
     "date": "2026-12-15",
     "time": "19:00",
     "datetime": "2026-12-15T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17245&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9708/"
   },
   {
@@ -260,7 +260,7 @@
     "date": "2026-12-17",
     "time": "19:00",
     "datetime": "2026-12-17T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17249&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9709/"
   },
   {
@@ -272,7 +272,7 @@
     "date": "2026-12-19",
     "time": "10:30",
     "datetime": "2026-12-19T10:30:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=30056&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballett-and-brezeln/9895/"
   },
   {
