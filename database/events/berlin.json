@@ -1,17 +1,5 @@
 [
   {
-    "id": "holiday-camp-2026-10-19-0930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Holiday camp",
-    "date": "2026-10-19",
-    "time": "09:30",
-    "datetime": "2026-10-19T09:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/feriencamp-en/161.html#a_985"
-  },
-  {
     "id": "family-morning-2026-10-23-0930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -296,7 +284,7 @@
     "date": "2026-12-04",
     "time": "19:30",
     "datetime": "2026-12-04T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20227&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_854"
   },
   {
