@@ -104,7 +104,7 @@
     "date": "2026-11-21",
     "time": "15:00",
     "datetime": "2026-11-21T15:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91314&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10273/"
   },
   {
@@ -284,7 +284,7 @@
     "date": "2026-12-20",
     "time": "17:00",
     "datetime": "2026-12-20T17:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17252&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9719/"
   },
   {
