@@ -324,6 +324,18 @@
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_856"
   },
   {
+    "id": "tanztanz-special-2026-12-07-1830",
+    "company": "Staatsballett Berlin",
+    "city": "Berlin",
+    "venue": "Deutsche Oper Berlin",
+    "title": "TanzTanz Special",
+    "date": "2026-12-07",
+    "time": "18:30",
+    "datetime": "2026-12-07T18:30:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/tanztanz-spezial-en/160.html#a_1058"
+  },
+  {
     "id": "2-chapters-love-2026-12-11-1930",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
