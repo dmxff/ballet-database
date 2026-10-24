@@ -1,29 +1,5 @@
 [
   {
-    "id": "family-morning-2026-10-23-0930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
-    "title": "Family morning",
-    "date": "2026-10-23",
-    "time": "09:30",
-    "datetime": "2026-10-23T09:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1026"
-  },
-  {
-    "id": "giselle-2026-10-23-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Staatsoper Unter den Linden",
-    "title": "Giselle",
-    "date": "2026-10-23",
-    "time": "19:30",
-    "datetime": "2026-10-23T19:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/giselle-en/42.html#a_828"
-  },
-  {
     "id": "diy-dance-it-yourself-2026-10-25-1300",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -1256,7 +1232,7 @@
     "date": "2027-05-17",
     "time": "19:30",
     "datetime": "2027-05-17T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20265&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/nureyev/301.html#a_915"
   },
   {
