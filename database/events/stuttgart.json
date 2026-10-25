@@ -992,7 +992,7 @@
     "date": "2027-06-04",
     "time": "19:00",
     "datetime": "2027-06-04T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17380&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/for-maurice/9789/"
   },
   {
