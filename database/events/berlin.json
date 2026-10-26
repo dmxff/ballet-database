@@ -1,41 +1,5 @@
 [
   {
-    "id": "diy-dance-it-yourself-2026-10-25-1300",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Komische Oper Berlin @ Schillertheater",
-    "title": "DIY - Dance it yourself",
-    "date": "2026-10-25",
-    "time": "13:00",
-    "datetime": "2026-10-25T13:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/kob-diy-en/319.html#a_1023"
-  },
-  {
-    "id": "wunder-kammer-2026-10-25-1500",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Komische Oper Berlin @ Schillertheater",
-    "title": "Wunder­kammer",
-    "date": "2026-10-25",
-    "time": "15:00",
-    "datetime": "2026-10-25T15:00:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20326&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_846"
-  },
-  {
-    "id": "wunder-kammer-2026-10-25-1900",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Komische Oper Berlin @ Schillertheater",
-    "title": "Wunder­kammer",
-    "date": "2026-10-25",
-    "time": "19:00",
-    "datetime": "2026-10-25T19:00:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20327&language=en",
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_847"
-  },
-  {
     "id": "holiday-course-2026-10-26-0945",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -212,7 +176,7 @@
     "date": "2026-11-27",
     "time": "19:30",
     "datetime": "2026-11-27T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20224&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_851"
   },
   {
@@ -320,7 +284,7 @@
     "date": "2026-12-11",
     "time": "19:30",
     "datetime": "2026-12-11T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20305&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_868"
   },
   {
