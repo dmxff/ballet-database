@@ -104,7 +104,7 @@
     "date": "2026-11-30",
     "time": "19:00",
     "datetime": "2026-11-30T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3158&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33180"
   },
   {
@@ -116,7 +116,7 @@
     "date": "2026-12-06",
     "time": "14:00",
     "datetime": "2026-12-06T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3166&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33188"
   },
   {
@@ -140,7 +140,7 @@
     "date": "2026-12-13",
     "time": "19:00",
     "datetime": "2026-12-13T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3159&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33199"
   },
   {
@@ -152,7 +152,7 @@
     "date": "2026-12-18",
     "time": "19:00",
     "datetime": "2026-12-18T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3160&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33202"
   },
   {
@@ -164,7 +164,7 @@
     "date": "2026-12-20",
     "time": "14:00",
     "datetime": "2026-12-20T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3167&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33206"
   },
   {
@@ -176,7 +176,7 @@
     "date": "2026-12-20",
     "time": "18:00",
     "datetime": "2026-12-20T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3163&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33207"
   },
   {
@@ -200,7 +200,7 @@
     "date": "2026-12-23",
     "time": "18:00",
     "datetime": "2026-12-23T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3164&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33212"
   },
   {
@@ -224,7 +224,7 @@
     "date": "2026-12-25",
     "time": "18:00",
     "datetime": "2026-12-25T18:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3165&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33214"
   },
   {
@@ -872,7 +872,7 @@
     "date": "2027-06-20",
     "time": "14:00",
     "datetime": "2027-06-20T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3260&language=de",
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/cinderella/62878.html#a_33398"
   },
   {
