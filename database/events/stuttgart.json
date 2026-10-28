@@ -56,7 +56,7 @@
     "date": "2026-11-15",
     "time": "14:00",
     "datetime": "2026-11-15T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17221&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9717/"
   },
   {
@@ -68,7 +68,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
@@ -560,7 +560,7 @@
     "date": "2027-02-14",
     "time": "14:00",
     "datetime": "2027-02-14T14:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17299&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9585/"
   },
   {
