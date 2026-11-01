@@ -1,17 +1,5 @@
 [
   {
-    "id": "different-grounds-2026-10-31-1800",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Different Grounds",
-    "date": "2026-10-31",
-    "time": "18:00",
-    "datetime": "2026-10-31T18:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/different-grounds/62700.html#a_33149"
-  },
-  {
     "id": "different-grounds-2026-11-04-1900",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -224,7 +212,7 @@
     "date": "2026-12-25",
     "time": "18:00",
     "datetime": "2026-12-25T18:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3165&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33214"
   },
   {
@@ -872,7 +860,7 @@
     "date": "2027-06-20",
     "time": "14:00",
     "datetime": "2027-06-20T14:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3260&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/cinderella/62878.html#a_33398"
   },
   {
