@@ -20,7 +20,7 @@
     "date": "2026-11-13",
     "time": "19:00",
     "datetime": "2026-11-13T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17219&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9716/"
   },
   {
@@ -620,7 +620,7 @@
     "date": "2027-02-21",
     "time": "14:00",
     "datetime": "2027-02-21T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48277&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/noverre-young-choreographers/9882/"
   },
   {
@@ -800,7 +800,7 @@
     "date": "2027-04-18",
     "time": "16:00",
     "datetime": "2027-04-18T16:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48280&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9874/"
   },
   {
@@ -1136,7 +1136,7 @@
     "date": "2027-07-11",
     "time": "14:00",
     "datetime": "2027-07-11T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17409&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/our-cranko/9780/"
   },
   {
