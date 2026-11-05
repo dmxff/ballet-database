@@ -1,17 +1,5 @@
 [
   {
-    "id": "different-grounds-2026-11-04-1900",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Different Grounds",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "datetime": "2026-11-04T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/different-grounds/62700.html#a_33153"
-  },
-  {
     "id": "different-grounds-2026-11-05-1200",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -116,7 +104,7 @@
     "date": "2026-12-06",
     "time": "18:00",
     "datetime": "2026-12-06T18:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3162&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/nussknacker/55959.html#a_33189"
   },
   {
@@ -296,7 +284,7 @@
     "date": "2027-01-29",
     "time": "19:30",
     "datetime": "2027-01-29T19:30:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3422&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/parts-and-pieces/62704.html#a_33512"
   },
   {
