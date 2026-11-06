@@ -32,7 +32,7 @@
     "date": "2026-11-14",
     "time": "20:00",
     "datetime": "2026-11-14T20:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=65989&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/international-solo-tanz-theater-festival-stuttgart/9885/"
   },
   {
@@ -56,7 +56,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
@@ -128,7 +128,7 @@
     "date": "2026-12-01",
     "time": "19:00",
     "datetime": "2026-12-01T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17234&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9704/"
   },
   {
@@ -348,6 +348,18 @@
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
+    "id": "insights-focus-john-cranko-school-2027-01-06-1500",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2027-01-06",
+    "time": "15:00",
+    "datetime": "2027-01-06T15:00:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91346&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10376/"
+  },
+  {
     "id": "romeo-and-juliet-2027-01-06-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -358,6 +370,18 @@
     "datetime": "2027-01-06T19:00:00",
     "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9726/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2027-01-07-1530",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2027-01-07",
+    "time": "15:30",
+    "datetime": "2027-01-07T15:30:00",
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91347&kassierer=web&language=en",
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10377/"
   },
   {
     "id": "guided-tours-with-mini-dance-workshop-for-children-and-their-families-2027-01-10-1100",
@@ -596,7 +620,7 @@
     "date": "2027-02-17",
     "time": "19:00",
     "datetime": "2027-02-17T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17302&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9587/"
   },
   {
@@ -634,6 +658,18 @@
     "datetime": "2027-02-21T19:00:00",
     "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/noverre-young-choreographers/9883/"
+  },
+  {
+    "id": "insights-focus-john-cranko-school-2027-02-26-1630",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "John Cranko School",
+    "title": "Insights – Focus: John Cranko School",
+    "date": "2027-02-26",
+    "time": "16:30",
+    "datetime": "2027-02-26T16:30:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10378/"
   },
   {
     "id": "modern-elegies-2027-03-12-1900",
