@@ -344,7 +344,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -596,7 +596,7 @@
     "date": "2027-02-14",
     "time": "19:00",
     "datetime": "2027-02-14T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17300&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/don-quixote/9586/"
   },
   {

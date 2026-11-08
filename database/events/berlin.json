@@ -1,17 +1,5 @@
 [
   {
-    "id": "family-morning-2026-11-07-0930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Ballettsäle des Staatsballetts Berlin",
-    "title": "Family morning",
-    "date": "2026-11-07",
-    "time": "09:30",
-    "datetime": "2026-11-07T09:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/familymorning/122.html#a_1027"
-  },
-  {
     "id": "premiere-talk-the-nutcracker-2026-11-08-1100",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -248,7 +236,7 @@
     "date": "2026-12-18",
     "time": "19:30",
     "datetime": "2026-12-18T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20307&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_870"
   },
   {
