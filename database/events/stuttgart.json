@@ -56,7 +56,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
@@ -356,7 +356,7 @@
     "date": "2027-01-06",
     "time": "15:00",
     "datetime": "2027-01-06T15:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91346&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10376/"
   },
   {
@@ -380,7 +380,7 @@
     "date": "2027-01-07",
     "time": "15:30",
     "datetime": "2027-01-07T15:30:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=91347&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10377/"
   },
   {
@@ -670,6 +670,42 @@
     "datetime": "2027-02-26T16:30:00",
     "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10378/"
+  },
+  {
+    "id": "dance-lab-2027-02-26-1900",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "Kammertheater",
+    "title": "Dance Lab",
+    "date": "2027-02-26",
+    "time": "19:00",
+    "datetime": "2027-02-26T19:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/dance-lab-en/9974/"
+  },
+  {
+    "id": "dance-lab-2027-02-27-1800",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "Kammertheater",
+    "title": "Dance Lab",
+    "date": "2027-02-27",
+    "time": "18:00",
+    "datetime": "2027-02-27T18:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/dance-lab-en/9975/"
+  },
+  {
+    "id": "dance-lab-2027-02-28-1700",
+    "company": "Stuttgart Ballet",
+    "city": "Stuttgart",
+    "venue": "Kammertheater",
+    "title": "Dance Lab",
+    "date": "2027-02-28",
+    "time": "17:00",
+    "datetime": "2027-02-28T17:00:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/dance-lab-en/9976/"
   },
   {
     "id": "modern-elegies-2027-03-12-1900",

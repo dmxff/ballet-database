@@ -1,29 +1,5 @@
 [
   {
-    "id": "premiere-talk-the-nutcracker-2026-11-08-1100",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "Premiere Talk: The Nutcracker",
-    "date": "2026-11-08",
-    "time": "11:00",
-    "datetime": "2026-11-08T11:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/premierengespraech-der-nussknacker-en/353.html#a_850"
-  },
-  {
-    "id": "wunder-kammer-2026-11-08-1800",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Komische Oper Berlin @ Schillertheater",
-    "title": "Wunder­kammer",
-    "date": "2026-11-08",
-    "time": "18:00",
-    "datetime": "2026-11-08T18:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/wunderkammer-en/299.html#a_849"
-  },
-  {
     "id": "step-ahead-2026-11-14-1000",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -308,7 +284,7 @@
     "date": "2026-12-28",
     "time": "19:30",
     "datetime": "2026-12-28T19:30:00",
-    "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20309&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_872"
   },
   {

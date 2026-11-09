@@ -1,17 +1,5 @@
 [
   {
-    "id": "different-grounds-2026-11-08-1900",
-    "company": "Semperoper Ballett",
-    "city": "Dresden",
-    "venue": "Semperoper Dresden",
-    "title": "Different Grounds",
-    "date": "2026-11-08",
-    "time": "19:00",
-    "datetime": "2026-11-08T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/different-grounds/62700.html#a_33157"
-  },
-  {
     "id": "gestatten-monsieur-petipa-2026-11-10-1000",
     "company": "Semperoper Ballett",
     "city": "Dresden",
@@ -44,7 +32,7 @@
     "date": "2026-11-20",
     "time": "20:00",
     "datetime": "2026-11-20T20:00:00",
-    "ticketUrl": "https://ticket.semperoper.de/webshop/webticket/shop?event=3146&language=de",
+    "ticketUrl": null,
     "officialUrl": "https://www.semperoper.de/spielplan/stuecke/stid/different-grounds/62700.html#a_33171"
   },
   {
