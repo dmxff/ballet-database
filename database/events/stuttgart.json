@@ -1,29 +1,5 @@
 [
   {
-    "id": "romeo-and-juliet-2026-11-13-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "Romeo and Juliet",
-    "date": "2026-11-13",
-    "time": "19:00",
-    "datetime": "2026-11-13T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17219&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9716/"
-  },
-  {
-    "id": "international-solo-tanz-theater-festival-stuttgart-2026-11-13-2000",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Kammertheater",
-    "title": "International Solo-Tanz-Theater Festival Stuttgart",
-    "date": "2026-11-13",
-    "time": "20:00",
-    "datetime": "2026-11-13T20:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=65988&kassierer=web&language=en",
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/international-solo-tanz-theater-festival-stuttgart/9884/"
-  },
-  {
     "id": "international-solo-tanz-theater-festival-stuttgart-2026-11-14-2000",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -44,7 +20,7 @@
     "date": "2026-11-15",
     "time": "14:00",
     "datetime": "2026-11-15T14:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17221&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9717/"
   },
   {
@@ -56,7 +32,7 @@
     "date": "2026-11-15",
     "time": "19:00",
     "datetime": "2026-11-15T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17222&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9718/"
   },
   {
