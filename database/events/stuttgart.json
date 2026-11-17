@@ -56,7 +56,7 @@
     "date": "2026-11-30",
     "time": "19:00",
     "datetime": "2026-11-30T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17232&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9703/"
   },
   {
@@ -284,7 +284,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -308,7 +308,7 @@
     "date": "2027-01-06",
     "time": "19:00",
     "datetime": "2027-01-06T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17270&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9726/"
   },
   {
@@ -356,7 +356,7 @@
     "date": "2027-01-13",
     "time": "19:00",
     "datetime": "2027-01-13T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=66009&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/behind-the-scenes/9887/"
   },
   {
@@ -368,7 +368,7 @@
     "date": "2027-01-14",
     "time": "19:00",
     "datetime": "2027-01-14T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=66010&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/behind-the-scenes/9888/"
   },
   {
@@ -416,7 +416,7 @@
     "date": "2027-01-16",
     "time": "18:00",
     "datetime": "2027-01-16T18:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=66013&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/behind-the-scenes/9891/"
   },
   {
