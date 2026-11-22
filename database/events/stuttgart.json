@@ -1,29 +1,5 @@
 [
   {
-    "id": "ballett-brezeln-2026-11-21-1030",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "John Cranko School, Rehearsal Stage",
-    "title": "Ballett & Brezeln",
-    "date": "2026-11-21",
-    "time": "10:30",
-    "datetime": "2026-11-21T10:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/ballett-and-brezeln/9894/"
-  },
-  {
-    "id": "insights-focus-john-cranko-school-2026-11-21-1500",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "John Cranko School",
-    "title": "Insights – Focus: John Cranko School",
-    "date": "2026-11-21",
-    "time": "15:00",
-    "datetime": "2026-11-21T15:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/guided-tours-of-the-john-cranko-school/10273/"
-  },
-  {
     "id": "insights-focus-john-cranko-school-2026-11-24-1600",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -68,7 +44,7 @@
     "date": "2026-12-01",
     "time": "19:00",
     "datetime": "2026-12-01T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17234&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9704/"
   },
   {
@@ -92,7 +68,7 @@
     "date": "2026-12-04",
     "time": "19:00",
     "datetime": "2026-12-04T19:00:00",
-    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17237&kassierer=web&language=en",
+    "ticketUrl": null,
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9705/"
   },
   {
