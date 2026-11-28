@@ -1,17 +1,5 @@
 [
   {
-    "id": "the-nut-cracker-2026-11-27-1930",
-    "company": "Staatsballett Berlin",
-    "city": "Berlin",
-    "venue": "Deutsche Oper Berlin",
-    "title": "The Nut­cracker",
-    "date": "2026-11-27",
-    "time": "19:30",
-    "datetime": "2026-11-27T19:30:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/der-nussknacker-en/348.html#a_851"
-  },
-  {
     "id": "intune-2026-2026-11-29-1015",
     "company": "Staatsballett Berlin",
     "city": "Berlin",
@@ -454,6 +442,18 @@
     "datetime": "2027-02-01T19:30:00",
     "ticketUrl": "https://staatsballett-berlin.eventim-inhouse.de/webshop/webticket/shop?event=20312&language=en",
     "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/2-chapters-love-en/63.html#a_875"
+  },
+  {
+    "id": "ferienangebot-2027-02-02-1615",
+    "company": "Staatsballett Berlin",
+    "city": "Berlin",
+    "venue": "Ballettsäle des Staatsballetts Berlin",
+    "title": "Ferienangebot",
+    "date": "2027-02-02",
+    "time": "16:15",
+    "datetime": "2027-02-02T16:15:00",
+    "ticketUrl": null,
+    "officialUrl": "https://www.staatsballett-berlin.de/en/spielplan/event-detail/stid/ferienangebot-en/142.html#a_1059"
   },
   {
     "id": "2-chapters-love-2027-02-04-1930",

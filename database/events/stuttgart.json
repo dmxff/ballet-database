@@ -1,17 +1,5 @@
 [
   {
-    "id": "the-nutcracker-2026-11-27-1900",
-    "company": "Stuttgart Ballet",
-    "city": "Stuttgart",
-    "venue": "Opernhaus",
-    "title": "The Nutcracker",
-    "date": "2026-11-27",
-    "time": "19:00",
-    "datetime": "2026-11-27T19:00:00",
-    "ticketUrl": null,
-    "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9702/"
-  },
-  {
     "id": "the-nutcracker-2026-11-30-1900",
     "company": "Stuttgart Ballet",
     "city": "Stuttgart",
@@ -140,7 +128,7 @@
     "date": "2026-12-17",
     "time": "19:00",
     "datetime": "2026-12-17T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17249&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/the-nutcracker/9709/"
   },
   {
@@ -248,7 +236,7 @@
     "date": "2027-01-05",
     "time": "19:00",
     "datetime": "2027-01-05T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=17269&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/romeo-and-juliet/9725/"
   },
   {
@@ -812,7 +800,7 @@
     "date": "2027-04-24",
     "time": "19:00",
     "datetime": "2027-04-24T19:00:00",
-    "ticketUrl": null,
+    "ticketUrl": "https://ticket.staatstheater-stuttgart.de/eventim.webshop/webticket/shop?&event=48283&kassierer=web&language=en",
     "officialUrl": "https://www.stuttgart-ballet.de/schedule/calendar/creations-xvi-xix-en/9876/"
   },
   {
